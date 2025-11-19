@@ -1,4 +1,4 @@
-Deployment Guide (Vite + React + TypeScript)
+🚀 Deployment Guide (Vite + React + TypeScript)
 Phase 1: Local Project Setup
 You need Node.js installed on your computer to do this.
 Open your terminal and run the following command to create a new project:
@@ -101,3 +101,5 @@ File Type Support: The TFDA accepts specific formats. How would you add support 
 Compliance Audit Trail: How can we generate a cryptographic hash (SHA-256) of the original uploaded PDF and include it in the final report to prove the analysis corresponds to that specific file?
 Dockerization: If the client wants to host this on-premise, how would you create a Dockerfile and nginx.conf to serve the static build?
 Accessibility (a11y): How would you use a tool like axe-core during development to ensure the custom flower theme colors meet WCAG AA contrast requirements for visually impaired users?
+lightbulb_tips
+Suggestions
